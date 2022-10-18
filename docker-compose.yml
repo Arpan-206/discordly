@@ -14,4 +14,4 @@ services:
     container_name: web
     restart: always
     ports:
-      - "80:80"
+      - "${PORT}:80"
