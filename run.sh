@@ -1,0 +1,1 @@
+python discordly/bot.py &
