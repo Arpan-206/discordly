@@ -1,8 +1,9 @@
 
 # Discordly
 
-A Discord-bot to readily and easily shorten links from [Discord](https://discord.com) itself, made possible by [Appwrite](https://appwrite.io/).
+![Discordly](static/DiscordlyThumbnail.png)
 
+A Discord-bot to readily and easily shorten links from [Discord](https://discord.com) itself, made possible by [Appwrite](https://appwrite.io/).
 
 ## Installation
 
